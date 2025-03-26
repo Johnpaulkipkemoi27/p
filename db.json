@@ -4,21 +4,21 @@
       "id": 1,
       "title": "Safari Adventure",
       "description": "Experience the wild in Africa with a thrilling safari adventure.",
-      "price":"1500 USD",
+      "price": "1500 USD",
       "image": "./images/safari.jpg"
     },
     {
       "id": 2,
       "title": "Tropical Beach Escape",
       "description": "Relax on pristine beaches and soak up the sun in the tropics.",
-      "price":"2000 USD",
+      "price": "2000 USD",
       "image": "./images/beach.jpg"
     },
     {
       "id": 3,
       "title": "Mountain Hiking",
       "description": "Embark on a challenging and scenic hike through the mountains.",
-      "price":"1000 USD",
+      "price": "1000 USD",
       "image": "./images/mountain.jpg"
     },
     {
@@ -39,7 +39,7 @@
       "id": 6,
       "title": "Desert Exploration",
       "description": "Embark on a unique desert safari and explore the vast dunes.",
-      "price": "30000 USD",
+      "price": "3000 USD",
       "image": "./images/deserttour.jpg"
     },
     {
